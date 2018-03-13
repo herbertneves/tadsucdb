@@ -1,0 +1,28 @@
+#container{
+    border: 1px solid gray;
+     width: 40%;
+     margin: auto;
+ }div{
+    
+     font-family: sans-serif;
+     padding: 10px;
+ }
+
+ .azul{
+     background-color: steelblue;
+ }
+
+ .amarelo{
+     background-color: orange;
+ }
+
+ .centro{
+     text-align: center;
+ }
+ 
+ #logo{
+     width: 90%;
+ }
+ button{
+     border: 1px solid gray;
+ }

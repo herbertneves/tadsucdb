@@ -1,0 +1,38 @@
+<html>
+
+<head>
+    <h1 class="header">Calculadora Pedido de Camisetas</h1>
+    <link href="style.css" rel="stylesheet" />
+
+    <script src="cadastro.js"></script>
+    <meta charset="UTF-8" />
+</head>
+
+<body>
+
+    <div id="container">
+        <div class="centro"> Quantidade P (R$ 10,00): <input value="" type="number" id="QP" /> </div>
+        <div class="centro"> Quantidade M (R$ 12,00): <input type="number" id="QM" /> </div>
+        <div class="centro"> Quantidade G (R$ 15,00): <input type="number" id="QG" /> </div>
+        <div class="centro">
+            <button class="botaoazul" onclick="cad.salvar()">Salvar Pedido</button>
+
+            <button class="amarelo" onclick="cad.limparForm()">Cancelar</button>
+        </div>
+
+    </div>
+
+        <div id="mensagem">
+
+        </div>
+
+    <div>
+
+        <table id="tbped" border="1">
+        </table>
+
+    </div>
+
+</body>
+
+</html>

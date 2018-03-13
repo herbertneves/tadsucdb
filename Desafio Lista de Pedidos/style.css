@@ -1,0 +1,64 @@
+/*#container{
+    border: 1px solid gray;
+     width: 40%;
+     margin: auto;
+ }
+ */
+.header {
+    font-family: verdana;
+    text-align: center;
+    background-color: indianred;
+    color: purple;
+}
+
+ div{
+    
+     font-family: sans-serif;
+     padding: 10px;
+ }
+
+ .botaoazul{
+     background-color: steelblue;
+     color: ghostwhite;
+ }
+
+ .amarelo{
+     background-color: orange;
+ }
+
+ .centro{
+     text-align: center;
+ }
+ 
+ #logo{
+     width: 90%;
+ }
+ button{
+     border: 1px solid gray;
+ }
+
+
+#tbped {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#tbped td, #tbped th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#tbped tr:nth-child(even){background-color: #f2f2f2;}
+
+#tbped tr:hover {background-color: #ddd;}
+
+#tbped thead {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    text-shadow: 3px 2px seagreen;
+    font-weight: bold;
+}

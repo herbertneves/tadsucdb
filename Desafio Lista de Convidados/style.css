@@ -1,0 +1,62 @@
+/*#container{
+    border: 1px solid gray;
+     width: 40%;
+     margin: auto;
+ }
+ */
+ div{
+    
+     font-family: sans-serif;
+     padding: 10px;
+ }
+
+ .azul{
+     background-color: steelblue;
+ }
+
+ .amarelo{
+     background-color: orange;
+ }
+
+ .centro{
+     text-align: center;
+ }
+ 
+ #logo{
+     width: 90%;
+ }
+ button{
+     border: 1px solid gray;
+ }
+
+ #tbpess{
+     width: 70%;
+     margin: auto;
+     border: 1px solid grey;
+ }
+  #tbrela{
+     width: 70%;
+     margin: auto;
+     border: 1px solid grey;
+ }
+ thead{
+     background-color: grey;
+     font-weight: bold;
+    
+ }
+
+ th{
+    background-color: lightgray;
+    font-weight: bold;
+    padding: 5px;
+
+ }
+
+ thead td{
+    padding: 10px;
+ }
+
+
+  td{
+    padding: 5px;
+ }
